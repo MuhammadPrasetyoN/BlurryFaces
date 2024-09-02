@@ -13,7 +13,7 @@ BlurryFaces is a Python project designed to automatically detect faces in images
 
    ```bash
    git clone https://github.com/MuhammadPrasetyoN/BlurryFaces.git
-   cd BlurWajah
+   cd BlurryFaces
     ```
 2.  **Create and activate a virtual environment**
     
