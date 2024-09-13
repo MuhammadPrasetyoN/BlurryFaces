@@ -64,10 +64,16 @@ BlurryFaces is a Python project designed to automatically detect faces in images
 ## EXAMPLE
 
 ### Input Image:
-![Output Image](/img/example_input.png)
+![Output Image](/asset/example_input.png)
 
 ### Output Image:
-![Output Image](/img/example_output.png)
+![Output Image](/asset/example_output.png)
+
+### Output Video:
+ 
+![Output Video](/asset/the_rock%20meme.gif)
+
+![Output Video](/asset/anya_waku.gif)
 
 The above example demonstrates how the script successfully detects and blurs faces in an image.
 
